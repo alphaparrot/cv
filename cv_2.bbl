@@ -1,0 +1,84 @@
+\begin{thebibliography}{10}
+
+\bibitem{Breneman2012}
+A.~Breneman, C.~Cattell, J.~Wygant, K.~Kersten, L.~B. Wilson, L.~Dai,
+  C.~Colpitts, P.~J. Kellogg, K.~Goetz, and \textbf{Paradise, A.}
+\newblock {Explaining polarization reversals in STEREO wave data}.
+\newblock {\em Journal of Geophysical Research: Space Physics}, 117(4):1--8,
+  2012.
+
+\bibitem{Breneman2013}
+A.~W. Breneman, C.~A. Cattell, K.~Kersten, \textbf{Paradise, A.}, S.~Schreiner,
+  P.~J. Kellogg, K.~Goetz, and L.~B. Wilson.
+\newblock {STEREO and Wind observations of intense cyclotron harmonic waves at
+  the Earth's bow shock and inside the magnetosheath}.
+\newblock {\em Journal of Geophysical Research: Space Physics},
+  118(12):7654--7664, 2013.
+
+\bibitem{Masui2017}
+Kiyoshi~W. Masui, J.~Richard Shaw, Cherry Ng, Kendrick~M. Smith, Keith
+  Vanderlinde, and \textbf{Adiv Paradise}.
+\newblock {Algorithms for FFT Beamforming Radio Interferometers}.
+\newblock oct 2017.
+\newblock Under review.
+
+\bibitem{Ng2017}
+Cherry Ng, Keith Vanderlinde, \textbf{Adiv Paradise}, Peter Klages, Kiyoshi
+  Masui, Kendrick Smith, Kevin Bandura, Patrick~Joseph Boyle, Matt Dobbs,
+  Victoria Kaspi, Andre Renard, J~Richard Shaw, Ingrid Stairs, and Ian
+  Tretyakov.
+\newblock {CHIME FRB: An application of FFT beamforming for a radio telescope}.
+\newblock {\em XXXIIth URSI General Assembly \& Scientific Symposium (URSI
+  GASS) 2017}, August 2017.
+
+\bibitem{ParadiseAGU2013c}
+A.~{Paradise}, A.~W. {Breneman}, C.~A. {Cattell}, K.~{Kersten}, S.~{Schreiner},
+  P.~J. {Kellogg}, K.~{Goetz}, and L.~B. {Wilson}, III.
+\newblock {`STEREO and Wind Observations of Intense Cyclotron Harmonic Waves at
+  the Earth's Bow Shock'}.
+\newblock {American Geophysical Union Fall Meeting (Poster)}, December 2013.
+
+\bibitem{Paradise2016c}
+A.~{Paradise} and K.~{Menou}.
+\newblock {`Stable weathering equilibria in snowball planets in the habitable
+  zone'}.
+\newblock {Emerging Researchers in Exoplanet Sciences II (Poster)}, June 2016.
+
+\bibitem{Paradise2017c}
+A.~{Paradise} and K.~{Menou}.
+\newblock {`The Habitability of Frozen Worlds'}.
+\newblock {Emerging Researchers in Exoplanet Sciences III (Talk)}, June 2017.
+
+\bibitem{ParadiseGNASH2015c}
+A.~{Paradise} and P.~{Woodward}.
+\newblock {`Toward a new implicit scheme using Riemann invariants'}.
+\newblock {JINA-CEE GNASH: The anomalous metal-poor stars and
+  convective-reactive nuclear astrophysics (Talk)}, May 2015.
+
+\bibitem{Paradise2014c}
+A.~{Paradise}, P.~{Woodward}, and W.~{Dai}.
+\newblock {`Development and Optimization of a Fast Poisson Solver using a
+  Red-Black Multigrid Approach in 2-D'}.
+\newblock {LANL Computing and Information Technology Student Mini Showcase
+  (Poster)}, July 2014.
+
+\bibitem{Paradise2018}
+\textbf{Adiv Paradise}, Kristen Menou, Diana Valencia, and Christopher Lee.
+\newblock {Habitable Snowballs: Generalizing the Habitable Zone}.
+\newblock March 2018.
+\newblock (Submitted; arXiv:1803.00511).
+
+\bibitem{Tamayo2016}
+Daniel Tamayo, Ari Silburt, Diana Valencia, Kristen Menou, Mohamad Ali-Dib,
+  Cristobal Petrovich, Chelsea~X. Huang, Hanno Rein, Christa van Laerhoven,
+  \textbf{Adiv Paradise}, Alysa Obertas, and Norman Murray.
+\newblock {A Machine Learns to Predict the Stability of Tightly Packed
+  Planetary Systems}.
+\newblock {\em The Astrophysical Journal}, 832(2):L22, nov 2016.
+
+\bibitem{Paradise2017}
+\textbf{Adiv Paradise} and Kristen Menou.
+\newblock {GCM Simulations of Unstable Climates in the Habitable Zone}.
+\newblock {\em The Astrophysical Journal}, 848(1):33, 2017.
+
+\end{thebibliography}

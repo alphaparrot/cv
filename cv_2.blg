@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: cv_2.aux
+The style file: plain.bst
+Database file #1: cv_2.bib
+Warning--empty journal in Masui2017
+Warning--empty booktitle in ParadiseAGU2013c
+Warning--empty journal in Paradise2018
+You've used 12 entries,
+            2118 wiz_defined-function locations,
+            576 strings with 7269 characters,
+and the built_in function-call counts, 4606 in all, are:
+= -- 400
+> -- 401
+< -- 0
++ -- 158
+- -- 146
+* -- 403
+:= -- 865
+add.period$ -- 38
+call.type$ -- 12
+change.case$ -- 109
+chr.to.int$ -- 0
+cite$ -- 15
+duplicate$ -- 111
+empty$ -- 219
+format.name$ -- 146
+if$ -- 854
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 8
+newline$ -- 65
+num.names$ -- 24
+pop$ -- 96
+preamble$ -- 1
+purify$ -- 97
+quote$ -- 0
+skip$ -- 79
+stack$ -- 0
+substring$ -- 119
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 48
+warning$ -- 3
+while$ -- 30
+width$ -- 14
+write$ -- 127
+(There were 3 warnings)
