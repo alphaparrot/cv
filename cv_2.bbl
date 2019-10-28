@@ -30,37 +30,6 @@ Cherry Ng, Keith Vanderlinde, \textbf{Paradise, Adiv}, Peter Klages, Kiyoshi
 \newblock {\em XXXIIth URSI General Assembly \& Scientific Symposium (URSI
   GASS) 2017}, August 2017.
 
-\bibitem{ParadiseAGU2013c}
-A.~{Paradise}, A.~W. {Breneman}, C.~A. {Cattell}, K.~{Kersten}, S.~{Schreiner},
-  P.~J. {Kellogg}, K.~{Goetz}, and L.~B. {Wilson}, III.
-\newblock {STEREO and Wind Observations of Intense Cyclotron Harmonic Waves at
-  the Earth's Bow Shock (Poster)}.
-\newblock December 2013.
-
-\bibitem{Paradise2016c}
-A.~{Paradise} and K.~{Menou}.
-\newblock {Stable weathering equilibria in snowball planets in the habitable
-  zone}.
-\newblock {Emerging Researchers in Exoplanet Sciences II (Poster)}, June 2016.
-
-\bibitem{Paradise2017c}
-A.~{Paradise} and K.~{Menou}.
-\newblock {The Habitability of Frozen Worlds}.
-\newblock {Emerging Researchers in Exoplanet Sciences III (Talk)}, June 2017.
-
-\bibitem{ParadiseGNASH2015c}
-A.~{Paradise} and P.~{Woodward}.
-\newblock {Toward a new implicit scheme using Riemann invariants}.
-\newblock {JINA-CEE GNASH: The anomalous metal-poor stars and
-  convective-reactive nuclear astrophysics (Talk)}, May 2015.
-
-\bibitem{Paradise2014c}
-A.~{Paradise}, P.~{Woodward}, and W.~{Dai}.
-\newblock {Development and Optimization of a Fast Poisson Solver using a
-  Red-Black Multigrid Approach in 2-D}.
-\newblock {LANL Computing and Information Technology Student Mini Showcase
-  (Poster)}, july 2014.
-
 \bibitem{Tamayo2016}
 Daniel Tamayo, Ari Silburt, Diana Valencia, Kristen Menou, Mohamad Ali-Dib,
   Cristobal Petrovich, Chelsea~X. Huang, Hanno Rein, Christa van Laerhoven,
@@ -69,16 +38,41 @@ Daniel Tamayo, Ari Silburt, Diana Valencia, Kristen Menou, Mohamad Ali-Dib,
   Planetary Systems}.
 \newblock {\em The Astrophysical Journal}, 832(2):L22, nov 2016.
 
+\bibitem{ParadiseAGU2013c}
+\textbf{{Paradise}, A.}, A.~W. {Breneman}, C.~A. {Cattell}, K.~{Kersten},
+  S.~{Schreiner}, P.~J. {Kellogg}, K.~{Goetz}, and L.~B. {Wilson}, III.
+\newblock {STEREO and Wind Observations of Intense Cyclotron Harmonic Waves at
+  the Earth's Bow Shock (Poster)}.
+\newblock December 2013.
+
+\bibitem{Paradise2016c}
+\textbf{{Paradise}, A.} and K.~{Menou}.
+\newblock {Stable weathering equilibria in snowball planets in the habitable
+  zone}.
+\newblock {Emerging Researchers in Exoplanet Sciences II (Poster)}, June 2016.
+
+\bibitem{Paradise2017c}
+\textbf{{Paradise}, A.} and K.~{Menou}.
+\newblock {The Habitability of Frozen Worlds}.
+\newblock {Emerging Researchers in Exoplanet Sciences III (Talk)}, June 2017.
+
+\bibitem{ParadiseGNASH2015c}
+\textbf{{Paradise}, A.} and P.~{Woodward}.
+\newblock {Toward a new implicit scheme using Riemann invariants}.
+\newblock {JINA-CEE GNASH: The anomalous metal-poor stars and
+  convective-reactive nuclear astrophysics (Talk)}, May 2015.
+
+\bibitem{Paradise2014c}
+\textbf{{Paradise}, A.}, P.~{Woodward}, and W.~{Dai}.
+\newblock {Development and Optimization of a Fast Poisson Solver using a
+  Red-Black Multigrid Approach in 2-D}.
+\newblock {LANL Computing and Information Technology Student Mini Showcase
+  (Poster)}, july 2014.
+
 \bibitem{Paradise2019a}
 \textbf{Paradise, Adiv}, Bo~Lin Fan, Krisen Menou, and Christopher Lee.
 \newblock {Blue Skies: The Role of pN2 in the Habitable Zone (Talk)}.
 \newblock 2019.
-
-\bibitem{Paradise2019c}
-\textbf{Paradise, Adiv}, Bo~Lin Fan, Krisen Menou, and Christopher Lee.
-\newblock {Low-Cost Inference of Terrestrial Climates With Broadband Photometry
-  (Poster)}.
-\newblock August 2019.
 
 \bibitem{Paradise2019e}
 \textbf{Paradise, Adiv}, Bo~Lin Fan, Kristen Menou, and Christopher Lee.
@@ -86,6 +80,12 @@ Daniel Tamayo, Ari Silburt, Diana Valencia, Kristen Menou, Mohamad Ali-Dib,
   pN{\$}{\_}2{\$} Levels}.
 \newblock 2019.
 \newblock Submitted to Icarus.
+
+\bibitem{Paradise2019c}
+\textbf{Paradise, Adiv}, Krisen Menou, Christopher Lee, and Bo~Lin Fan.
+\newblock {Low-Cost Inference of Terrestrial Climates With Broadband Photometry
+  (Poster)}.
+\newblock August 2019.
 
 \bibitem{Paradise2017}
 \textbf{Paradise, Adiv} and Kristen Menou.

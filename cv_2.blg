@@ -7,12 +7,12 @@ Warning--string name "june" is undefined
 --line 174 of file cv_2.bib
 Warning--empty booktitle in ParadiseAGU2013c
 Warning--empty booktitle in Paradise2019a
-Warning--empty booktitle in Paradise2019c
 Warning--empty journal in Paradise2019e
+Warning--empty booktitle in Paradise2019c
 Warning--empty booktitle in Paradise2018
 You've used 17 entries,
             2118 wiz_defined-function locations,
-            607 strings with 8348 characters,
+            608 strings with 8462 characters,
 and the built_in function-call counts, 6443 in all, are:
 = -- 562
 > -- 516
