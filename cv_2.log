@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.3.2)  10 APR 2018 12:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  28 OCT 2019 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -62,67 +62,78 @@ LaTeX Warning: Unused global option(s):
 (./cv_2.aux)
 \openout1 = `cv_2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 49.
+(Font)              <7> on input line 50.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 49.
+(Font)              <5> on input line 50.
  (./cv_2.bbl)
-Overfull \hbox (8.52405pt too wide) in paragraph at lines 140--141
-\OT1/cmr/m/sl/10 Snow-balls: Gen-er-al-iz-ing the Hab-it-able Zone.  March 2018
-.  (Sub-mit-ted; arXiv:1803.00511) 
+Missing character: There is no ‚ in font cmsl10!
+Missing character: There is no Ä in font cmsl10!
+Missing character: There is no ú in font cmsl10!
+Missing character: There is no ‚ in font cmsl10!
+Missing character: There is no Ä in font cmsl10!
+Missing character: There is no ù in font cmsl10!
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (4.79431pt too wide) in paragraph at lines 146--147
+[]\OT1/cmr/m/sl/10 Cherry Ng, Keith Van-der-linde, \OT1/cmr/bx/sl/10 Par-adise,
+ Adiv\OT1/cmr/m/sl/10 , Pe-ter Klages, Kiyoshi Ma-sui, Kendrick
  []
 
 
-Overfull \hbox (1.59988pt too wide) in paragraph at lines 143--144
-[]\OT1/cmr/m/sl/10 Cherry Ng, Keith Van-der-linde, \OT1/cmr/bx/sl/10 Adiv Par-a
-dise\OT1/cmr/m/sl/10 , Pe-ter Klages, Kiyoshi Ma-sui, Kendrick
- []
-
-
-Overfull \hbox (1.21019pt too wide) in paragraph at lines 144--145
+Overfull \hbox (1.21019pt too wide) in paragraph at lines 147--148
 []\OT1/cmr/m/sl/10 Daniel Tamayo, Ari Sil-burt, Di-ana Va-len-cia, Kris-ten Men
 ou, Mo-hamad Ali-Dib, Cristo-
  []
 
-[1
+[2]
+Overfull \hbox (3.57643pt too wide) in paragraph at lines 183--184
+\OT1/cmtt/m/sl/10 breaking-[]research / can-[]life-[]exist-[]snowball-[]planet-
+[]new-[]utsc-[]research-[]says-[]yes$ 
+ []
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Missing character: There is no ‚ in font cmsl10!
+Missing character: There is no Ä in font cmsl10!
+Missing character: There is no î in font cmsl10!
+[3]
 Missing character: There is no ‚ in font cmbxsl10!
 Missing character: There is no Ä in font cmbxsl10!
 Missing character: There is no ù in font cmbxsl10!
 Missing character: There is no ‚ in font cmbxsl10!
 Missing character: There is no Ä in font cmbxsl10!
 Missing character: There is no ù in font cmbxsl10!
- [2] (./cv_2.aux) ) 
+ [4] (./cv_2.aux) ) 
 Here is how much of TeX's memory you used:
- 479 strings out of 494953
- 5788 string characters out of 6180978
- 56260 words of memory out of 5000000
- 3820 multiletter control sequences out of 15000+600000
- 5265 words of font info for 19 fonts, out of 8000000 for 9000
+ 492 strings out of 494953
+ 5995 string characters out of 6180976
+ 57260 words of memory out of 5000000
+ 3832 multiletter control sequences out of 15000+600000
+ 5434 words of font info for 20 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,8n,21p,411b,211s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,21p,409b,209s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
 12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxsl10.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
-Output written on cv_2.pdf (2 pages, 90186 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsltt10.pfb>
+Output written on cv_2.pdf (4 pages, 110212 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 41 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

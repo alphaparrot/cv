@@ -15,15 +15,14 @@ A.~W. Breneman, C.~A. Cattell, K.~Kersten, \textbf{Paradise, A.}, S.~Schreiner,
 \newblock {\em Journal of Geophysical Research: Space Physics},
   118(12):7654--7664, 2013.
 
-\bibitem{Masui2017}
+\bibitem{Masui2019}
 Kiyoshi~W. Masui, J.~Richard Shaw, Cherry Ng, Kendrick~M. Smith, Keith
-  Vanderlinde, and \textbf{Adiv Paradise}.
+  Vanderlinde, and \textbf{Paradise, Adiv}.
 \newblock {Algorithms for FFT Beamforming Radio Interferometers}.
-\newblock oct 2017.
-\newblock Under review.
+\newblock {\em The Astrophysical Journal}, 879(1):16, jun 2019.
 
 \bibitem{Ng2017}
-Cherry Ng, Keith Vanderlinde, \textbf{Adiv Paradise}, Peter Klages, Kiyoshi
+Cherry Ng, Keith Vanderlinde, \textbf{Paradise, Adiv}, Peter Klages, Kiyoshi
   Masui, Kendrick Smith, Kevin Bandura, Patrick~Joseph Boyle, Matt Dobbs,
   Victoria Kaspi, Andre Renard, J~Richard Shaw, Ingrid Stairs, and Ian
   Tretyakov.
@@ -34,51 +33,84 @@ Cherry Ng, Keith Vanderlinde, \textbf{Adiv Paradise}, Peter Klages, Kiyoshi
 \bibitem{ParadiseAGU2013c}
 A.~{Paradise}, A.~W. {Breneman}, C.~A. {Cattell}, K.~{Kersten}, S.~{Schreiner},
   P.~J. {Kellogg}, K.~{Goetz}, and L.~B. {Wilson}, III.
-\newblock {`STEREO and Wind Observations of Intense Cyclotron Harmonic Waves at
-  the Earth's Bow Shock'}.
-\newblock {American Geophysical Union Fall Meeting (Poster)}, December 2013.
+\newblock {STEREO and Wind Observations of Intense Cyclotron Harmonic Waves at
+  the Earth's Bow Shock (Poster)}.
+\newblock December 2013.
 
 \bibitem{Paradise2016c}
 A.~{Paradise} and K.~{Menou}.
-\newblock {`Stable weathering equilibria in snowball planets in the habitable
-  zone'}.
+\newblock {Stable weathering equilibria in snowball planets in the habitable
+  zone}.
 \newblock {Emerging Researchers in Exoplanet Sciences II (Poster)}, June 2016.
 
 \bibitem{Paradise2017c}
 A.~{Paradise} and K.~{Menou}.
-\newblock {`The Habitability of Frozen Worlds'}.
+\newblock {The Habitability of Frozen Worlds}.
 \newblock {Emerging Researchers in Exoplanet Sciences III (Talk)}, June 2017.
 
 \bibitem{ParadiseGNASH2015c}
 A.~{Paradise} and P.~{Woodward}.
-\newblock {`Toward a new implicit scheme using Riemann invariants'}.
+\newblock {Toward a new implicit scheme using Riemann invariants}.
 \newblock {JINA-CEE GNASH: The anomalous metal-poor stars and
   convective-reactive nuclear astrophysics (Talk)}, May 2015.
 
 \bibitem{Paradise2014c}
 A.~{Paradise}, P.~{Woodward}, and W.~{Dai}.
-\newblock {`Development and Optimization of a Fast Poisson Solver using a
-  Red-Black Multigrid Approach in 2-D'}.
+\newblock {Development and Optimization of a Fast Poisson Solver using a
+  Red-Black Multigrid Approach in 2-D}.
 \newblock {LANL Computing and Information Technology Student Mini Showcase
-  (Poster)}, July 2014.
-
-\bibitem{Paradise2018}
-\textbf{Adiv Paradise}, Kristen Menou, Diana Valencia, and Christopher Lee.
-\newblock {Habitable Snowballs: Generalizing the Habitable Zone}.
-\newblock March 2018.
-\newblock (Submitted; arXiv:1803.00511).
+  (Poster)}, july 2014.
 
 \bibitem{Tamayo2016}
 Daniel Tamayo, Ari Silburt, Diana Valencia, Kristen Menou, Mohamad Ali-Dib,
   Cristobal Petrovich, Chelsea~X. Huang, Hanno Rein, Christa van Laerhoven,
-  \textbf{Adiv Paradise}, Alysa Obertas, and Norman Murray.
+  \textbf{Paradise, Adiv}, Alysa Obertas, and Norman Murray.
 \newblock {A Machine Learns to Predict the Stability of Tightly Packed
   Planetary Systems}.
 \newblock {\em The Astrophysical Journal}, 832(2):L22, nov 2016.
 
+\bibitem{Paradise2019a}
+\textbf{Paradise, Adiv}, Bo~Lin Fan, Krisen Menou, and Christopher Lee.
+\newblock {Blue Skies: The Role of pN2 in the Habitable Zone (Talk)}.
+\newblock 2019.
+
+\bibitem{Paradise2019c}
+\textbf{Paradise, Adiv}, Bo~Lin Fan, Krisen Menou, and Christopher Lee.
+\newblock {Low-Cost Inference of Terrestrial Climates With Broadband Photometry
+  (Poster)}.
+\newblock August 2019.
+
+\bibitem{Paradise2019e}
+\textbf{Paradise, Adiv}, Bo~Lin Fan, Kristen Menou, and Christopher Lee.
+\newblock {Climate Diversity in the Habitable Zone due to Varying
+  pN{\$}{\_}2{\$} Levels}.
+\newblock 2019.
+\newblock Submitted to Icarus.
+
 \bibitem{Paradise2017}
-\textbf{Adiv Paradise} and Kristen Menou.
+\textbf{Paradise, Adiv} and Kristen Menou.
 \newblock {GCM Simulations of Unstable Climates in the Habitable Zone}.
 \newblock {\em The Astrophysical Journal}, 848(1):33, 2017.
+
+\bibitem{Paradise2018}
+\textbf{Paradise, Adiv}, Kristen Menou, Diana Valencia, and Christopher Lee.
+\newblock {Generalizing the Habitable Zone: Temperate Continental Regions on
+  Some Snowball Planets (Talk)}.
+\newblock August 2018.
+
+\bibitem{Paradise2019b}
+\textbf{Paradise, Adiv}, Kristen Menou, Diana Valencia, and Christopher Lee.
+\newblock {Habitable Snowballs: Temperate Land Conditions, Liquid Water, and
+  Implications for CO 2 Weathering}.
+\newblock {\em Journal of Geophysical Research: Planets}, 124(8):2087--2100,
+  aug 2019.
+
+\bibitem{Paradise2019d}
+\textbf{Paradise, Adiv}, Cesar~B. Rocha, Pragallva Barpanda, and Noboru
+  Nakamura.
+\newblock {Blocking Statistics in a Varying Climate: Lessons from a “Traffic
+  Jam” Model with Pseudostochastic Forcing}.
+\newblock {\em Journal of the Atmospheric Sciences}, 76(10):3013--3027, oct
+  2019.
 
 \end{thebibliography}
