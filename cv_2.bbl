@@ -15,6 +15,12 @@ A.~W. Breneman, C.~A. Cattell, K.~Kersten, \textbf{Paradise, A.}, S.~Schreiner,
 \newblock {\em Journal of Geophysical Research: Space Physics},
   118(12):7654--7664, 2013.
 
+\bibitem{Macdonald2021}
+E.~{Macdonald}, \textbf{{Paradise}, A.}, K.~{Menou}, and C.~{Lee}.
+\newblock {Dayside land on tidally locked M-Earths}.
+\newblock In {\em Bulletin of the American Astronomical Society}, volume~53,
+  page 1022, March 2021.
+
 \bibitem{Masui2019}
 Kiyoshi~W. Masui, J.~Richard Shaw, Cherry Ng, Kendrick~M. Smith, Keith
   Vanderlinde, and \textbf{Paradise, Adiv}.
@@ -69,17 +75,30 @@ Daniel Tamayo, Ari Silburt, Diana Valencia, Kristen Menou, Mohamad Ali-Dib,
 \newblock {LANL Computing and Information Technology Student Mini Showcase
   (Poster)}, july 2014.
 
+\bibitem{Paradise2020a}
+\textbf{{Paradise}, Adiv}, Bo~Lin {Fan}, Evelyn {Macdonald}, Kristen {Menou},
+  and Christopher {Lee}.
+\newblock {A Large Repository of 3D Climate Model Outputs for Community
+  Analysis and Postprocessing}.
+\newblock {\em arXiv e-prints}, page arXiv:2008.02339, August 2020.
+
 \bibitem{Paradise2019a}
 \textbf{Paradise, Adiv}, Bo~Lin Fan, Krisen Menou, and Christopher Lee.
 \newblock {Blue Skies: The Role of pN2 in the Habitable Zone (Talk)}.
 \newblock 2019.
 
-\bibitem{Paradise2019e}
-\textbf{Paradise, Adiv}, Bo~Lin Fan, Kristen Menou, and Christopher Lee.
-\newblock {Climate Diversity in the Habitable Zone due to Varying
-  pN{\$}{\_}2{\$} Levels}.
-\newblock 2019.
-\newblock Submitted to Icarus.
+\bibitem{Paradise2021a}
+\textbf{{Paradise}, Adiv}, Bo~Lin {Fan}, Kristen {Menou}, and Christopher
+  {Lee}.
+\newblock {Climate diversity in the solar-like habitable zone due to varying
+  background gas pressure}.
+\newblock {\em Icarus}, 358:114301, April 2021.
+
+\bibitem{Paradise2021b}
+\textbf{{Paradise}, Adiv}, E.~{Macdonald}, K.~{Menou}, C.~{Lee}, and B.~{Fan}.
+\newblock {Enabling new science with the ExoPlaSim 3D climate model}.
+\newblock In {\em Bulletin of the American Astronomical Society}, volume~53,
+  page 1140, March 2021.
 
 \bibitem{Paradise2019c}
 \textbf{Paradise, Adiv}, Krisen Menou, Christopher Lee, and Bo~Lin Fan.

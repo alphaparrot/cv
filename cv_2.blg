@@ -7,48 +7,47 @@ Warning--string name "june" is undefined
 --line 174 of file cv_2.bib
 Warning--empty booktitle in ParadiseAGU2013c
 Warning--empty booktitle in Paradise2019a
-Warning--empty journal in Paradise2019e
 Warning--empty booktitle in Paradise2019c
 Warning--empty booktitle in Paradise2018
-You've used 17 entries,
+You've used 20 entries,
             2118 wiz_defined-function locations,
-            608 strings with 8462 characters,
-and the built_in function-call counts, 6443 in all, are:
-= -- 562
-> -- 516
-< -- 0
-+ -- 203
-- -- 186
-* -- 554
-:= -- 1174
-add.period$ -- 52
-call.type$ -- 17
-change.case$ -- 144
+            630 strings with 9111 characters,
+and the built_in function-call counts, 8108 in all, are:
+= -- 730
+> -- 595
+< -- 5
++ -- 234
+- -- 214
+* -- 659
+:= -- 1399
+add.period$ -- 60
+call.type$ -- 20
+change.case$ -- 167
 chr.to.int$ -- 0
-cite$ -- 22
-duplicate$ -- 173
-empty$ -- 360
-format.name$ -- 186
-if$ -- 1223
+cite$ -- 24
+duplicate$ -- 264
+empty$ -- 470
+format.name$ -- 214
+if$ -- 1611
 int.to.chr$ -- 0
-int.to.str$ -- 17
-missing$ -- 13
-newline$ -- 89
-num.names$ -- 34
-pop$ -- 139
+int.to.str$ -- 20
+missing$ -- 16
+newline$ -- 103
+num.names$ -- 40
+pop$ -- 166
 preamble$ -- 1
-purify$ -- 127
+purify$ -- 147
 quote$ -- 0
-skip$ -- 114
+skip$ -- 208
 stack$ -- 0
-substring$ -- 212
-swap$ -- 12
-text.length$ -- 0
+substring$ -- 293
+swap$ -- 71
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 68
-warning$ -- 5
-while$ -- 45
-width$ -- 19
-write$ -- 176
-(There were 6 warnings)
+type$ -- 80
+warning$ -- 4
+while$ -- 55
+width$ -- 22
+write$ -- 211
+(There were 5 warnings)
